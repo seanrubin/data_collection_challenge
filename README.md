@@ -75,16 +75,25 @@ Find the average minimum daily temperature for all of the months.
 
 Plot the results as a bar chart.
 
+![image](https://github.com/seanrubin/data_collection_challenge/assets/31460184/3f1d65ec-5455-4162-baaf-be4fe15b3cda)
+
+
 Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
 
 Find the average daily atmospheric pressure of all the months.
 
 Plot the results as a bar chart.
 
+![image](https://github.com/seanrubin/data_collection_challenge/assets/31460184/bb0e7f89-3256-4a36-a984-33a47f3545f7)
+
+
 About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
 
 Consider how many days elapse on Earth in the time that Mars circles the Sun once.
 
 Visually estimate the result by plotting the daily minimum temperature.
+
+![image](https://github.com/seanrubin/data_collection_challenge/assets/31460184/3fd2b58d-558e-4774-b70f-be9b2aa9bf35)
+
 
 Export the DataFrame to a CSV file.
